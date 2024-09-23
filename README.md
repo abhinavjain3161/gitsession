@@ -1,0 +1,2 @@
+# gitsession
+empty repository
